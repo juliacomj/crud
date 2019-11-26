@@ -5,14 +5,9 @@
 export const environment = {
   production: false,
   firebase:{
-    apiKey: "AIzaSyBpE9AWeWb1zJBSpIvIhWBUU2c7QP832y8",
-    authDomain: "molten-position-242613.firebaseapp.com",
-    databaseURL: "https://molten-position-242613.firebaseio.com",
-    projectId: "molten-position-242613",
-    storageBucket: "molten-position-242613.appspot.com",
-    messagingSenderId: "678571392967",
-    appId: "1:678571392967:web:df380211ead5c1587163e2",
-    measurementId: "G-6PJDSCN2X8"
+      
+   //Firebase Data  
+
   }
 };
 
